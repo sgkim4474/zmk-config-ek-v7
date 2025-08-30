@@ -25,10 +25,9 @@
 #    shield: ergodash_right
 ---
  include:
-  - board: nrfmicro_13_52833
-    snippet: nrf52833-nosd-DSHIELD=ergodash_left
-#    shield: ergodash_left
-
-  - board: nrfmicro_13_52833
-    snippet: nrf52833-nosd-DSHIELD=ergodash_right
-#    shield: ergodash_right
+  - board: nrfmicro_13_52840
+    snippet: nrf52840-nosd
+    shield: ergodash_left
+  - board: nrfmicro_13_52840
+    snippet: nrf52840-nosd
+    shield: ergodash_right
