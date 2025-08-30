@@ -32,15 +32,11 @@
 #    snippet: nrf52840-nosd
 #    shield: ergodash_right
 ---
-#  include:
-#  - board: nice_nano_v2
-#    snippet: nrf52840-nosd
-#    shield: ergodash_left
-#  - board: nice_nano_v2
-#    snippet: nrf52840-nosd
-#    shield: ergodash_right
----
-   include:
-  - board: nrfmicro_13_52833
+  include:
+  - board: nice_nano_v2
+    snippet: nrf52840-nosd
+    shield: ergodash_left
+  - board: nice_nano_v2
     snippet: nrf52840-nosd
     shield: ergodash_right
+
