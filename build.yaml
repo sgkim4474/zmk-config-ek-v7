@@ -33,10 +33,10 @@
 #    shield: ergodash_right
 ---
   include:
-  - board: nice_nano_v2
+  - board: nrf52840dk_nrf52840
     snippet: nrf52840-nosd
     shield: ergodash_left
-  - board: nice_nano_v2
+  - board: nrf52840dk_nrf52840
     snippet: nrf52840-nosd
     shield: ergodash_right
 
