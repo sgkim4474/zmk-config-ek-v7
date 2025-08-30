@@ -43,4 +43,4 @@
    include:
   - board: nrfmicro_13_52833
     snippet: nrf52840-nosd
-    shield: [ "ergodash_left", "ergodash_right" ] 
+    shield: "ergodash_left", "ergodash_right"
