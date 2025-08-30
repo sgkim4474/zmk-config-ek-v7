@@ -26,9 +26,9 @@
 ---
  include:
   - board: nrfmicro_13_52833
-    snippet: nrf52833-nosd-DSHIELD=corne_left
+    snippet: nrf52833-nosd-DSHIELD=ergodash_left
 #    shield: ergodash_left
 
   - board: nrfmicro_13_52833
-    snippet: nrf52833-nosd-DSHIELD=corne_right
+    snippet: nrf52833-nosd-DSHIELD=ergodash_right
 #    shield: ergodash_right
