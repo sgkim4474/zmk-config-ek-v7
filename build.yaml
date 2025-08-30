@@ -24,6 +24,14 @@
 #  - board: nrf52840dk_nrf52840
 #    shield: ergodash_right
 ---
+# include:
+#  - board: nrfmicro_13_52840
+#    snippet: nrf52840-nosd
+#    shield: ergodash_left
+#  - board: nrfmicro_13_52840
+#    snippet: nrf52840-nosd
+#    shield: ergodash_right
+---
  include:
   - board: nrfmicro_13_52840
     snippet: nrf52840-nosd
